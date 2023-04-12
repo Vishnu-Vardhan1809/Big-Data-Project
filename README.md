@@ -13,12 +13,12 @@
     2. Secong choice: Mobile Price Classification
 ## 3. Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem or opportunity):
 
-    # Business Problem:
+    ### Business Problem:
         1. Pricing strategy: how to leverage the data in dataset to determine the optimal price for mobile devices 
         2. International pricing: finding the strategies that help us provide price in different international markets considering
         factors such as exchange rates, local competition, and purchasing power of consumers.
         
-    # Opportunity:
+    #### Opportunity:
         1. Market segmentation: based on the mobile featurs we can group phones and identifying different customer segments with
         distinct preferences, needs, or purchasing behaviors.
 
