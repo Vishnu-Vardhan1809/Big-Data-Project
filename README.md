@@ -13,6 +13,15 @@
     2. Secong choice: Mobile Price Classification
 ## 3. Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem or opportunity):
 
+    # Business Problem:
+        1. Pricing strategy: how to leverage the data in dataset to determine the optimal price for mobile devices 
+        2. International pricing: finding the strategies that help us provide price in different international markets considering
+        factors such as exchange rates, local competition, and purchasing power of consumers.
+        
+    # Opportunity:
+        1. Market segmentation: based on the mobile featurs we can group phones and identifying different customer segments with
+        distinct preferences, needs, or purchasing behaviors.
+
 ## 4. Research Objectives and Question(s) (what you are trying to describe or predict with the data)
 ### Global Internet Users:
 1. Which countries have the highest number of internet users?
@@ -23,7 +32,6 @@
 ### Mobile Price Classification:
 1. How accurate is the mobile price classification model?
 2. Which mobile phone features have the biggest impact on the price classification?
-3. Is there a correlation between a mobile phone's network technology (such as 4G or 5G) and its price classification?
-4. can the mobile price classification model be improved or optimized for better accuracy?
+3. 
 
 
