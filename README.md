@@ -23,6 +23,7 @@
 ### Mobile Price Classification:
 1. How accurate is the mobile price classification model?
 2. Which mobile phone features have the biggest impact on the price classification?
-3. 
+3. Is there a correlation between a mobile phone's network technology (such as 4G or 5G) and its price classification?
+4. can the mobile price classification model be improved or optimized for better accuracy?
 
 
