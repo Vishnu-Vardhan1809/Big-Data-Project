@@ -27,15 +27,20 @@
     
     
 ## 3. Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem or opportunity):
+    
+    
 
-    ### Business Problem:
-        1. Pricing strategy: how to leverage the data in dataset to determine the optimal price for mobile devices 
-        2. International pricing: finding the strategies that help us provide price in different international markets considering
-        factors such as exchange rates, local competition, and purchasing power of consumers.
-        
-    #### Opportunity:
-        1. Market segmentation: based on the mobile featurs we can group phones and identifying different customer segments with
-        distinct preferences, needs, or purchasing behaviors.
+    With the growing rate of data, the demand to hire data scientists in the market also increases. So to get a better understanding of the
+    people that break into the field of data and the requirement to meet today’s market's expectation to deliver the project as early as 
+    possible with high accuracy, we need predictive analysis of people who pursuing data science and machine learning job and what are the 
+    certain features that some of them have that make them as greater potential in the job market.
+
+    The dataset contains a complete industry-wide survey that represents information about job seekers including the age, level of their education, skill sets,             carrier, and origin. It has around 10,000 rows and 369 futures, and the data scheme is the following:
+    
+    ### Business Problem or Opportunity:
+        1. How does the level of education of job seekers in the field of data science and machine learning correlate with their salary and job opportunities
+        2. What are the most common career backgrounds of people who transition into data science and machine learning jobs
+        3. Are there any specific skills or programming languages that are more desirable for data science and machine learning jobs in the current job market
 
 ## 4. Research Objectives and Question(s) (what you are trying to describe or predict with the data)
     1) Predicting the salary of a data professional based on their job title, years of experience, and
