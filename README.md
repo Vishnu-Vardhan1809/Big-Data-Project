@@ -1,16 +1,31 @@
 # Big-Data-Project
 ## 1. Team
-1. Vishnu Vardhan Darimidi
-2. Bharath Kumar Gompa
-3. Koosha Sharifani
-4. Tharun Abhinav Suraneni
-5. Alex Miller
+#### a) Members
+    1. Vishnu Vardhan Darimidi
+    2. Bharath Kumar Gompa
+    3. Koosha Sharifani
+    4. Tharun Abhinav Suraneni
+    5. Alex Miller
 
-## 2. Communication:
-1. The platform we are using to communicate the project-related work is Whatsapp.
-2. We worked together and came to an agreement on two datasets.
-    1. First Choice: Global Internet Users
-    2. Secong choice: Mobile Price Classification
+#### b) Communication plan to include project artifact repository:
+    Methods of communication :- e-mail, Whatsapp(once a week)
+    Communication response times:- Same day
+
+    Meeting attendance:- After looking into everyone’s schedule we had decided to meet weekly once virtual to discuss the progress of the project 
+    and complete the required things and meet the deliverable requirements.
+
+    Running meetings:- Virtual.
+    
+    Git Link:- https://github.com/Vishnu-Vardhan1809/Big-Data-Project
+
+## 2. Selection of data to analyze from:
+    We looked at the information and data for our project. We'll be using a dataset called "2021 Kaggle Machine Learning and Data Science survey" from a 
+    website called Kaggle\competitions. We'll study this dataset to see how it's set up and what it contains, and then use that information to 
+    figure out some results.
+    
+    Dataset -kaggle link: https://www.kaggle.com/competitions/kaggle-survey-2021/data
+    
+    
 ## 3. Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem or opportunity):
 
     ### Business Problem:
@@ -23,15 +38,15 @@
         distinct preferences, needs, or purchasing behaviors.
 
 ## 4. Research Objectives and Question(s) (what you are trying to describe or predict with the data)
-### Global Internet Users:
-1. Which countries have the highest number of internet users?
-2. Understanding a correlation between a country's population size and the number of internet users in that country?
-3. What percentage of the global population uses the internet?
-4. Has subscription to internet increased over the years?
-
-### Mobile Price Classification:
-1. How accurate is the mobile price classification model?
-2. Which mobile phone features have the biggest impact on the price classification?
-3. 
-
-
+    1) Predicting the salary of a data professional based on their job title, years of experience, and
+       location?
+    2) What are the most important skills for data professionals to have in the current job market, and how do these vary by job title and industry?
+    3) What are the most common tools and platforms used by data professionals, and how does
+       their usage vary by job title, industry, and experience level?
+    4) How does the compensation of data professionals vary by job title, industry, and years of experience?
+    5) What is the distribution of job titles and their salaries among data professionals who have a PhD?
+    6) Analyzing  and visualizing the degrees and the job roles based on the survey results.
+    7) Which degree has the highest number of job opportunities in the field of data science based on the person's educational background?
+    8) Determining the number of individuals working in the field of data science in each country, we can evaluate which countries offer more opportunities in this            field or are suitable for establishing a data science company.
+    9) Analyzing the usage patterns of various platforms within the field of data science, we can gain insights from the experiences of those involved. This                  information can then be used to develop new initiatives aimed at improving the overall situation.
+    
